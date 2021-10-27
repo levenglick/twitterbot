@@ -1,0 +1,19 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "a twitter bot to respond with a set response to each mention by a specific handle",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/levenglick/twitterbot.git"
+  },
+  "author": "thepoosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levenglick/twitterbot/issues"
+  },
+  "homepage": "https://github.com/levenglick/twitterbot#readme"
+}
